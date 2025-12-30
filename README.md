@@ -83,8 +83,8 @@ The model accurately tracks:
 
 ```bash
 # Clone repository
-git clone https://github.com/[YOUR_USERNAME]/[YOUR_REPO_NAME].git
-cd [YOUR_REPO_NAME]
+git clone https://github.com/sawvikk/Energy-Forecasting-Project.git
+cd pjme-energy-forecasting
 
 # Install dependencies
 pip install -r requirements.txt
